@@ -28,7 +28,7 @@
 	</header>
 	<main>
 		<section class="contenedor sobre-nosotros">
-		<h2 class="titulo"> Aserca de nosotros</h2>
+		<h2 class="titulo"> acerca de nosotros</h2>
 		<div class="contenedor sobre-nosotros">
 			<img src="img/nosotros.png" alt=""   class="imagen-about-us">
 			<div class="contenido-textos">
